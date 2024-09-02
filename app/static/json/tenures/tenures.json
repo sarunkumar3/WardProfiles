@@ -1,0 +1,7470 @@
+{
+  "header": {
+    "extracted": "2024-08-14T14:02:37Z",
+    "id": "NOMIS-DATA",
+    "prepared": "2024-08-14T14:02:37Z",
+    "sender": {
+      "contact": {
+        "email": "support@nomisweb.co.uk",
+        "name": "Nomis",
+        "telephone": "+441913342680",
+        "uri": "http://www.nomisweb.co.uk"
+      },
+      "id": "NOMIS"
+    },
+    "source": "ONS Crown Copyright Reserved",
+    "test": "false",
+    "truncated": "false",
+    "uri": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2072_1.data.json?date=latest&geography=641734706...641734724&c2021_tenure_9=1...8&measures=20100"
+  },
+  "obs": [
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 495,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 879,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 74,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 735,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1470,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 858,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 122,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 10,
+        "description": "Households Value for Bellingham (Lewisham) (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734706d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1224,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1654,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 124,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1195,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 858,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2157,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 161,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 12,
+        "description": "Households Value for Blackheath (Lewisham) (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734707d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 903,
+        "description": "Households Value for Brockley (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1792,
+        "description": "Households Value for Brockley (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 138,
+        "description": "Households Value for Brockley (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 951,
+        "description": "Households Value for Brockley (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 914,
+        "description": "Households Value for Brockley (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2481,
+        "description": "Households Value for Brockley (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 161,
+        "description": "Households Value for Brockley (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8,
+        "description": "Households Value for Brockley (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734708d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1602,
+        "description": "Households Value for Catford South (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2194,
+        "description": "Households Value for Catford South (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 70,
+        "description": "Households Value for Catford South (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 252,
+        "description": "Households Value for Catford South (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 853,
+        "description": "Households Value for Catford South (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1175,
+        "description": "Households Value for Catford South (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 114,
+        "description": "Households Value for Catford South (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 4,
+        "description": "Households Value for Catford South (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734709d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1258,
+        "description": "Households Value for Crofton Park (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2292,
+        "description": "Households Value for Crofton Park (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 64,
+        "description": "Households Value for Crofton Park (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 362,
+        "description": "Households Value for Crofton Park (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 646,
+        "description": "Households Value for Crofton Park (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1441,
+        "description": "Households Value for Crofton Park (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 135,
+        "description": "Households Value for Crofton Park (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 7,
+        "description": "Households Value for Crofton Park (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734710d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 469,
+        "description": "Households Value for Deptford (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1223,
+        "description": "Households Value for Deptford (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 107,
+        "description": "Households Value for Deptford (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1961,
+        "description": "Households Value for Deptford (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1144,
+        "description": "Households Value for Deptford (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2021,
+        "description": "Households Value for Deptford (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 148,
+        "description": "Households Value for Deptford (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 24,
+        "description": "Households Value for Deptford (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734711d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1117,
+        "description": "Households Value for Downham (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1859,
+        "description": "Households Value for Downham (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 50,
+        "description": "Households Value for Downham (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 682,
+        "description": "Households Value for Downham (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1936,
+        "description": "Households Value for Downham (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1117,
+        "description": "Households Value for Downham (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 122,
+        "description": "Households Value for Downham (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5,
+        "description": "Households Value for Downham (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734712d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 365,
+        "description": "Households Value for Evelyn (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1058,
+        "description": "Households Value for Evelyn (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 223,
+        "description": "Households Value for Evelyn (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1681,
+        "description": "Households Value for Evelyn (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 850,
+        "description": "Households Value for Evelyn (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1850,
+        "description": "Households Value for Evelyn (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 95,
+        "description": "Households Value for Evelyn (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 9,
+        "description": "Households Value for Evelyn (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734713d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1168,
+        "description": "Households Value for Forest Hill (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1977,
+        "description": "Households Value for Forest Hill (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 66,
+        "description": "Households Value for Forest Hill (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 700,
+        "description": "Households Value for Forest Hill (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 844,
+        "description": "Households Value for Forest Hill (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1515,
+        "description": "Households Value for Forest Hill (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 124,
+        "description": "Households Value for Forest Hill (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 17,
+        "description": "Households Value for Forest Hill (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734714d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1324,
+        "description": "Households Value for Grove Park (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1881,
+        "description": "Households Value for Grove Park (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 82,
+        "description": "Households Value for Grove Park (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 318,
+        "description": "Households Value for Grove Park (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1360,
+        "description": "Households Value for Grove Park (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1217,
+        "description": "Households Value for Grove Park (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 117,
+        "description": "Households Value for Grove Park (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5,
+        "description": "Households Value for Grove Park (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734715d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1339,
+        "description": "Households Value for Hither Green (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2261,
+        "description": "Households Value for Hither Green (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 104,
+        "description": "Households Value for Hither Green (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 627,
+        "description": "Households Value for Hither Green (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1324,
+        "description": "Households Value for Hither Green (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2145,
+        "description": "Households Value for Hither Green (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 160,
+        "description": "Households Value for Hither Green (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5,
+        "description": "Households Value for Hither Green (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734716d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1138,
+        "description": "Households Value for Ladywell (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1797,
+        "description": "Households Value for Ladywell (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 59,
+        "description": "Households Value for Ladywell (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 726,
+        "description": "Households Value for Ladywell (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 963,
+        "description": "Households Value for Ladywell (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1409,
+        "description": "Households Value for Ladywell (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 140,
+        "description": "Households Value for Ladywell (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 7,
+        "description": "Households Value for Ladywell (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734717d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1321,
+        "description": "Households Value for Lee Green (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1972,
+        "description": "Households Value for Lee Green (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 44,
+        "description": "Households Value for Lee Green (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 456,
+        "description": "Households Value for Lee Green (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 819,
+        "description": "Households Value for Lee Green (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1401,
+        "description": "Households Value for Lee Green (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 122,
+        "description": "Households Value for Lee Green (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 6,
+        "description": "Households Value for Lee Green (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734718d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 258,
+        "description": "Households Value for Lewisham Central (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 701,
+        "description": "Households Value for Lewisham Central (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 161,
+        "description": "Households Value for Lewisham Central (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 228,
+        "description": "Households Value for Lewisham Central (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 623,
+        "description": "Households Value for Lewisham Central (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1741,
+        "description": "Households Value for Lewisham Central (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 90,
+        "description": "Households Value for Lewisham Central (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2,
+        "description": "Households Value for Lewisham Central (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734719d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 296,
+        "description": "Households Value for New Cross Gate (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 674,
+        "description": "Households Value for New Cross Gate (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 201,
+        "description": "Households Value for New Cross Gate (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 845,
+        "description": "Households Value for New Cross Gate (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 911,
+        "description": "Households Value for New Cross Gate (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1225,
+        "description": "Households Value for New Cross Gate (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 71,
+        "description": "Households Value for New Cross Gate (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 9,
+        "description": "Households Value for New Cross Gate (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734720d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1479,
+        "description": "Households Value for Perry Vale (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2567,
+        "description": "Households Value for Perry Vale (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 76,
+        "description": "Households Value for Perry Vale (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 948,
+        "description": "Households Value for Perry Vale (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 794,
+        "description": "Households Value for Perry Vale (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1608,
+        "description": "Households Value for Perry Vale (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 142,
+        "description": "Households Value for Perry Vale (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 13,
+        "description": "Households Value for Perry Vale (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734721d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1100,
+        "description": "Households Value for Rushey Green (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2119,
+        "description": "Households Value for Rushey Green (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 108,
+        "description": "Households Value for Rushey Green (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 590,
+        "description": "Households Value for Rushey Green (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1333,
+        "description": "Households Value for Rushey Green (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2358,
+        "description": "Households Value for Rushey Green (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 210,
+        "description": "Households Value for Rushey Green (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 7,
+        "description": "Households Value for Rushey Green (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734722d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1211,
+        "description": "Households Value for Sydenham (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1864,
+        "description": "Households Value for Sydenham (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 52,
+        "description": "Households Value for Sydenham (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1363,
+        "description": "Households Value for Sydenham (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1057,
+        "description": "Households Value for Sydenham (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1451,
+        "description": "Households Value for Sydenham (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 107,
+        "description": "Households Value for Sydenham (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 13,
+        "description": "Households Value for Sydenham (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734723d8d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 1,
+        "description": "Owned: Owns outright"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 784,
+        "description": "Households Value for Telegraph Hill (geography), Owned: Owns outright (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 2,
+        "description": "Owned: Owns with a mortgage or loan"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1614,
+        "description": "Households Value for Telegraph Hill (geography), Owned: Owns with a mortgage or loan (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 3,
+        "description": "Shared ownership: Shared ownership"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 146,
+        "description": "Households Value for Telegraph Hill (geography), Shared ownership: Shared ownership (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 4,
+        "description": "Social rented: Rents from council or Local Authority"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1425,
+        "description": "Households Value for Telegraph Hill (geography), Social rented: Rents from council or Local Authority (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 5,
+        "description": "Social rented: Other social rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1006,
+        "description": "Households Value for Telegraph Hill (geography), Social rented: Other social rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 6,
+        "description": "Private rented: Private landlord or letting agency"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1625,
+        "description": "Households Value for Telegraph Hill (geography), Private rented: Private landlord or letting agency (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d6d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 7,
+        "description": "Private rented: Other private rented"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 149,
+        "description": "Households Value for Telegraph Hill (geography), Private rented: Other private rented (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d7d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2072_1",
+        "description": "TS054 - Tenure"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_tenure_9": {
+        "value": 8,
+        "description": "Lives rent free"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "H",
+        "description": "Households"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 12,
+        "description": "Households Value for Telegraph Hill (geography), Lives rent free (Tenure of household) for 2021 from TS054 - Tenure"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2072d1d32336e0d641734724d8d20100"
+    }
+  ]
+}

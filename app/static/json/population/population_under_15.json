@@ -1,0 +1,1029 @@
+{
+  "header": {
+    "extracted": "2024-08-07T10:01:28Z",
+    "id": "NOMIS-DATA",
+    "prepared": "2024-08-07T10:01:28Z",
+    "sender": {
+      "contact": {
+        "email": "support@nomisweb.co.uk",
+        "name": "Nomis",
+        "telephone": "+441913342680",
+        "uri": "http://www.nomisweb.co.uk"
+      },
+      "id": "NOMIS"
+    },
+    "source": "ONS Crown Copyright Reserved",
+    "test": "false",
+    "truncated": "false",
+    "uri": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2014_1.data.json?geography=729813882...729813900&date=latest&gender=0&c_age=201&measures=20100"
+  },
+  "obs": [
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813882,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2483,
+        "description": "Persons Value for Bellingham (Lewisham) (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813882d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813883,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2702,
+        "description": "Persons Value for Blackheath (Lewisham) (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813883d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813884,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2818,
+        "description": "Persons Value for Brockley (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813884d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813885,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3465,
+        "description": "Persons Value for Catford South (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813885d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813886,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3130,
+        "description": "Persons Value for Crofton Park (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813886d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813887,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2808,
+        "description": "Persons Value for Deptford (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813887d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813888,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 4106,
+        "description": "Persons Value for Downham (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813888d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813889,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2341,
+        "description": "Persons Value for Evelyn (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813889d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813890,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2916,
+        "description": "Persons Value for Forest Hill (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813890d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813891,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3040,
+        "description": "Persons Value for Grove Park (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813891d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813892,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 4053,
+        "description": "Persons Value for Hither Green (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813892d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813893,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2819,
+        "description": "Persons Value for Ladywell (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813893d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813894,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3076,
+        "description": "Persons Value for Lee Green (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813894d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813895,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 1219,
+        "description": "Persons Value for Lewisham Central (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813895d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813896,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2064,
+        "description": "Persons Value for New Cross Gate (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813896d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813897,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3854,
+        "description": "Persons Value for Perry Vale (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813897d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813898,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3663,
+        "description": "Persons Value for Rushey Green (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813898d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813899,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 3365,
+        "description": "Persons Value for Sydenham (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813899d0d201d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2014_1",
+        "description": "Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "geography": {
+        "value": 729813900,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "gender": {
+        "value": 0,
+        "description": "Total"
+      },
+      "c_age": {
+        "value": 201,
+        "description": "Aged 0 to 15"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2022,
+        "description": 2022
+      },
+      "obs_value": {
+        "value": 2947,
+        "description": "Persons Value for Telegraph Hill (geography), Aged 0 to 15 (Age) for 2022 from Population estimates - small area (2021 based) by single year of age - England and Wales"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 1,
+        "description": "Rounded to 1"
+      },
+      "urn": "Nm-2014d1d32352e0d729813900d0d201d20100"
+    }
+  ]
+}

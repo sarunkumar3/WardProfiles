@@ -1,0 +1,5608 @@
+{
+  "header": {
+    "extracted": "2024-08-07T15:57:32Z",
+    "id": "NOMIS-DATA",
+    "prepared": "2024-08-07T15:57:32Z",
+    "sender": {
+      "contact": {
+        "email": "support@nomisweb.co.uk",
+        "name": "Nomis",
+        "telephone": "+441913342680",
+        "uri": "http://www.nomisweb.co.uk"
+      },
+      "id": "NOMIS"
+    },
+    "source": "ONS Crown Copyright Reserved",
+    "test": "false",
+    "truncated": "false",
+    "uri": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2055_1.data.json?date=latest&geography=641734706...641734724&c2021_health_6=0...5&measures=20100"
+  },
+  "obs": [
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 11661,
+        "description": "Persons Value for Bellingham (Lewisham) (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734706d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5658,
+        "description": "Persons Value for Bellingham (Lewisham) (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734706d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 3795,
+        "description": "Persons Value for Bellingham (Lewisham) (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734706d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1512,
+        "description": "Persons Value for Bellingham (Lewisham) (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734706d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 488,
+        "description": "Persons Value for Bellingham (Lewisham) (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734706d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734706,
+        "description": "Bellingham (Lewisham)",
+        "geogcode": "E05013714"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 208,
+        "description": "Persons Value for Bellingham (Lewisham) (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734706d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 16428,
+        "description": "Persons Value for Blackheath (Lewisham) (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734707d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8850,
+        "description": "Persons Value for Blackheath (Lewisham) (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734707d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5191,
+        "description": "Persons Value for Blackheath (Lewisham) (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734707d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1703,
+        "description": "Persons Value for Blackheath (Lewisham) (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734707d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 517,
+        "description": "Persons Value for Blackheath (Lewisham) (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734707d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734707,
+        "description": "Blackheath (Lewisham)",
+        "geogcode": "E05013715"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 167,
+        "description": "Persons Value for Blackheath (Lewisham) (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734707d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 17498,
+        "description": "Persons Value for Brockley (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734708d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 9616,
+        "description": "Persons Value for Brockley (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734708d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5648,
+        "description": "Persons Value for Brockley (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734708d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1618,
+        "description": "Persons Value for Brockley (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734708d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 482,
+        "description": "Persons Value for Brockley (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734708d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734708,
+        "description": "Brockley",
+        "geogcode": "E05013716"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 134,
+        "description": "Persons Value for Brockley (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734708d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 17257,
+        "description": "Persons Value for Catford South (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734709d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8907,
+        "description": "Persons Value for Catford South (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734709d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5643,
+        "description": "Persons Value for Catford South (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734709d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1980,
+        "description": "Persons Value for Catford South (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734709d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 567,
+        "description": "Persons Value for Catford South (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734709d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734709,
+        "description": "Catford South",
+        "geogcode": "E05013717"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 160,
+        "description": "Persons Value for Catford South (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734709d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 15427,
+        "description": "Persons Value for Crofton Park (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734710d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8555,
+        "description": "Persons Value for Crofton Park (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734710d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 4892,
+        "description": "Persons Value for Crofton Park (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734710d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1461,
+        "description": "Persons Value for Crofton Park (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734710d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 390,
+        "description": "Persons Value for Crofton Park (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734710d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734710,
+        "description": "Crofton Park",
+        "geogcode": "E05013718"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 129,
+        "description": "Persons Value for Crofton Park (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734710d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 17002,
+        "description": "Persons Value for Deptford (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734711d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8867,
+        "description": "Persons Value for Deptford (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734711d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5502,
+        "description": "Persons Value for Deptford (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734711d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1876,
+        "description": "Persons Value for Deptford (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734711d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 599,
+        "description": "Persons Value for Deptford (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734711d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734711,
+        "description": "Deptford",
+        "geogcode": "E05013719"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 158,
+        "description": "Persons Value for Deptford (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734711d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 18359,
+        "description": "Persons Value for Downham (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734712d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 9076,
+        "description": "Persons Value for Downham (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734712d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5955,
+        "description": "Persons Value for Downham (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734712d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2300,
+        "description": "Persons Value for Downham (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734712d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 760,
+        "description": "Persons Value for Downham (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734712d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734712,
+        "description": "Downham",
+        "geogcode": "E05013720"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 268,
+        "description": "Persons Value for Downham (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734712d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 14435,
+        "description": "Persons Value for Evelyn (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734713d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 7998,
+        "description": "Persons Value for Evelyn (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734713d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 4494,
+        "description": "Persons Value for Evelyn (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734713d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1309,
+        "description": "Persons Value for Evelyn (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734713d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 477,
+        "description": "Persons Value for Evelyn (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734713d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734713,
+        "description": "Evelyn",
+        "geogcode": "E05013721"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 157,
+        "description": "Persons Value for Evelyn (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734713d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 15174,
+        "description": "Persons Value for Forest Hill (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734714d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8534,
+        "description": "Persons Value for Forest Hill (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734714d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 4680,
+        "description": "Persons Value for Forest Hill (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734714d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1409,
+        "description": "Persons Value for Forest Hill (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734714d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 434,
+        "description": "Persons Value for Forest Hill (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734714d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734714,
+        "description": "Forest Hill",
+        "geogcode": "E05013722"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 117,
+        "description": "Persons Value for Forest Hill (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734714d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 15732,
+        "description": "Persons Value for Grove Park (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734715d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 7848,
+        "description": "Persons Value for Grove Park (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734715d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5317,
+        "description": "Persons Value for Grove Park (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734715d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1787,
+        "description": "Persons Value for Grove Park (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734715d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 594,
+        "description": "Persons Value for Grove Park (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734715d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734715,
+        "description": "Grove Park",
+        "geogcode": "E05013723"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 186,
+        "description": "Persons Value for Grove Park (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734715d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 20151,
+        "description": "Persons Value for Hither Green (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734716d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 10504,
+        "description": "Persons Value for Hither Green (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734716d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 6379,
+        "description": "Persons Value for Hither Green (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734716d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2348,
+        "description": "Persons Value for Hither Green (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734716d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 734,
+        "description": "Persons Value for Hither Green (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734716d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734716,
+        "description": "Hither Green",
+        "geogcode": "E05013724"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 186,
+        "description": "Persons Value for Hither Green (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734716d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 15575,
+        "description": "Persons Value for Ladywell (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734717d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8229,
+        "description": "Persons Value for Ladywell (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734717d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5068,
+        "description": "Persons Value for Ladywell (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734717d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1615,
+        "description": "Persons Value for Ladywell (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734717d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 498,
+        "description": "Persons Value for Ladywell (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734717d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734717,
+        "description": "Ladywell",
+        "geogcode": "E05013725"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 165,
+        "description": "Persons Value for Ladywell (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734717d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 15015,
+        "description": "Persons Value for Lee Green (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734718d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8305,
+        "description": "Persons Value for Lee Green (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734718d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 4709,
+        "description": "Persons Value for Lee Green (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734718d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1463,
+        "description": "Persons Value for Lee Green (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734718d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 424,
+        "description": "Persons Value for Lee Green (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734718d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734718,
+        "description": "Lee Green",
+        "geogcode": "E05013726"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 114,
+        "description": "Persons Value for Lee Green (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734718d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8198,
+        "description": "Persons Value for Lewisham Central (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734719d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 4651,
+        "description": "Persons Value for Lewisham Central (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734719d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2615,
+        "description": "Persons Value for Lewisham Central (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734719d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 680,
+        "description": "Persons Value for Lewisham Central (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734719d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 200,
+        "description": "Persons Value for Lewisham Central (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734719d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734719,
+        "description": "Lewisham Central",
+        "geogcode": "E05013727"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 52,
+        "description": "Persons Value for Lewisham Central (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734719d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 11077,
+        "description": "Persons Value for New Cross Gate (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734720d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5830,
+        "description": "Persons Value for New Cross Gate (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734720d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 3720,
+        "description": "Persons Value for New Cross Gate (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734720d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1043,
+        "description": "Persons Value for New Cross Gate (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734720d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 366,
+        "description": "Persons Value for New Cross Gate (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734720d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734720,
+        "description": "New Cross Gate",
+        "geogcode": "E05013728"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 118,
+        "description": "Persons Value for New Cross Gate (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734720d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 18657,
+        "description": "Persons Value for Perry Vale (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734721d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 10178,
+        "description": "Persons Value for Perry Vale (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734721d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5909,
+        "description": "Persons Value for Perry Vale (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734721d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1844,
+        "description": "Persons Value for Perry Vale (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734721d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 543,
+        "description": "Persons Value for Perry Vale (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734721d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734721,
+        "description": "Perry Vale",
+        "geogcode": "E05013729"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 183,
+        "description": "Persons Value for Perry Vale (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734721d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 19018,
+        "description": "Persons Value for Rushey Green (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734722d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 9973,
+        "description": "Persons Value for Rushey Green (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734722d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 6108,
+        "description": "Persons Value for Rushey Green (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734722d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 2059,
+        "description": "Persons Value for Rushey Green (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734722d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 634,
+        "description": "Persons Value for Rushey Green (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734722d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734722,
+        "description": "Rushey Green",
+        "geogcode": "E05013730"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 244,
+        "description": "Persons Value for Rushey Green (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734722d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 16975,
+        "description": "Persons Value for Sydenham (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734723d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 8845,
+        "description": "Persons Value for Sydenham (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734723d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5361,
+        "description": "Persons Value for Sydenham (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734723d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1944,
+        "description": "Persons Value for Sydenham (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734723d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 630,
+        "description": "Persons Value for Sydenham (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734723d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734723,
+        "description": "Sydenham",
+        "geogcode": "E05013731"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 195,
+        "description": "Persons Value for Sydenham (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734723d5d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_health_6": {
+        "value": 0,
+        "description": "Total: All usual residents"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 16914,
+        "description": "Persons Value for Telegraph Hill (geography) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734724d0d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_health_6": {
+        "value": 1,
+        "description": "Very good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 9220,
+        "description": "Persons Value for Telegraph Hill (geography), Very good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734724d1d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_health_6": {
+        "value": 2,
+        "description": "Good health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 5307,
+        "description": "Persons Value for Telegraph Hill (geography), Good health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734724d2d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_health_6": {
+        "value": 3,
+        "description": "Fair health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 1659,
+        "description": "Persons Value for Telegraph Hill (geography), Fair health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734724d3d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_health_6": {
+        "value": 4,
+        "description": "Bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 555,
+        "description": "Persons Value for Telegraph Hill (geography), Bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734724d4d20100"
+    },
+    {
+      "dataset": {
+        "value": "NM_2055_1",
+        "description": "TS037 - General health"
+      },
+      "geography": {
+        "value": 641734724,
+        "description": "Telegraph Hill",
+        "geogcode": "E05013732"
+      },
+      "c2021_health_6": {
+        "value": 5,
+        "description": "Very bad health"
+      },
+      "measures": {
+        "value": 20100,
+        "description": "Value"
+      },
+      "freq": "A",
+      "time_format": {
+        "value": "P1Y",
+        "description": "Annual"
+      },
+      "unit": {
+        "value": "PER",
+        "description": "Persons"
+      },
+      "time": {
+        "value": 2021,
+        "description": 2021
+      },
+      "obs_value": {
+        "value": 173,
+        "description": "Persons Value for Telegraph Hill (geography), Very bad health (General health) for 2021 from TS037 - General health"
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      },
+      "obs_conf": {
+        "value": "F",
+        "description": "Free (free for publication)"
+      },
+      "obs_round": {
+        "value": 0,
+        "description": "Not rounded"
+      },
+      "urn": "Nm-2055d1d32336e0d641734724d5d20100"
+    }
+  ]
+}

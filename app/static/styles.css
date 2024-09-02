@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+
+h1,
+p,
+a {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-size: 2.8em;
+  padding: 10px 0;
+  font-weight: 800;
+}
+
+p {
+  font-size: 1.4em; /* Increase the font size */
+  font-weight: 400; /* Make the text bolder */
+  letter-spacing: 2px; /* Slightly reduce letter spacing for better readability */
+  margin-top: 15px; /* Add some margin to create space between the header and paragraph */
+}
+
+.header {
+  width: 100%;
+  padding: 60px 0;
+  text-align: center;
+  background: #33cccc;
+  color: white;
+}
+
+.btn-bgstroke {
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 500; /* Increase button text weight for better visibility */
+  margin-top: 30px;
+}
+
+.btn-bgstroke:hover {
+  background-color: white;
+  color: #33cccc;
+}
+
+.shadow-box {
+    padding: 15px; /* Add padding inside the box */
+    margin-bottom: 20px; /* Space below the box */
+    background-color: #f8f9fa; /* Background color (light grey) */
+    border-radius: 0.5rem; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    text-align: center; /* Center the text */
+}
+
+.container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: flex-start; /* Align items to the start */
+    height: auto; /* Allow height to adjust based on content */
+    width: 80%;
+    margin-top: 20px;
+    gap: 20px; /* Space between items */
+}
+
+#map {
+    width: 60vw; /* Map width */
+    height: 600px; /* Fixed height for the map */
+}
+
+#graph {
+    width: 60vw; /* Graph width */
+    height: auto; /* Fixed height for the graph */
+}
+
+.table-container {
+    width: 60vw; /* Table width */
+    height: 300px; /* Allow height to adjust based on content */
+}
+
+.paragraph-text {
+    font-size: 18px; /* Increase font size for better readability */
+    line-height: 1.6; /* Space between lines for readability */
+    margin: 0; /* Remove default margin */
+}
+

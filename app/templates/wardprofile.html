@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ward Profile</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+        }
+        header {
+            width: 100%;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .container {
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            height: 80vh;
+            width: 80%;
+            margin-top: 20px;
+            gap: 20px;
+        }
+        #map {
+            width: 60vw;
+            height: 100%;
+        }
+        #graph {
+            width: 35vw;
+            height: 100%;
+        }
+        .map-selector {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        .map-selector label {
+            margin-right: 10px;
+        }
+        form {
+            display: flex;
+            align-items: center;
+        }
+        select {
+            padding: 5px;
+            font-size: 16px;
+        }
+        .introduction {
+            width: 80%;
+            margin: 20px auto;
+            text-align: center;
+            line-height: 1.6;
+        }
+        .introduction h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        .introduction p {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            font-weight: 400;
+        }
+                /* Custom table styling */
+                table.table {
+            margin-top: 20px;
+            width: 100%;
+            border-collapse: collapse;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        table.table th, table.table td {
+            padding: 12px 15px;
+            text-align: center;
+            vertical-align: middle;
+            border: 1px solid #ddd;
+        }
+        table.table th {
+            background-color: #f8f9fa;
+            color: #333;
+            font-weight: bold;
+        }
+        table.table-striped tbody tr:nth-of-type(odd) {
+            background-color: #f2f2f2;
+        }
+        table.table-hover tbody tr:hover {
+            background-color: #e9ecef;
+        }
+        /* Add margin below the dropdown form */
+        header {
+            margin-bottom: 20px;
+        }
+    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <section class="header">
+        <h1>Lewisham Ward Profiles</h1>
+        <p>Detailed insights into the demographics, health, and living conditions of your community</p>
+    </section>
+
+    <!-- Introduction Section -->
+    <section class="introduction">
+        <div class="shadow-box">
+            <p class="paragraph-text">
+                The Ward Profiles provide an in-depth overview of the unique characteristics and trends within each ward.
+                These profiles offer valuable insights into various aspects such as population demographics, health statistics, economic activity, housing, and more.
+                Whether you're a resident, policymaker, or researcher, this tool helps you understand the dynamics of different wards and supports informed decision-making.
+            </p>
+        </div>
+    </section>
+
+    <header>
+        <div class="map-selector">
+            <form method="get" action="/wardprofile">
+                <label for="display">Select View:</label>
+                <select name="display" id="display" onchange="this.form.submit()">
+                    <option value="default" {% if request.args.get('display') == 'default' %}selected{% endif %}>Default View</option>
+                    <option value="population" {% if request.args.get('display') == 'population' %}selected{% endif %}>Population View</option>
+                    <option value="health" {% if request.args.get('display') == 'health' %}selected{% endif %}>Health View</option>
+                    <option value="occupation" {% if request.args.get('display') == 'occupation' %}selected{% endif %}>Occupation View</option>
+                    <option value="tenure" {% if request.args.get('display') == 'tenure' %}selected{% endif %}>Tenure View</option>
+                    <option value="vehicles" {% if request.args.get('display') == 'vehicles' %}selected{% endif %}>Vehicles View</option>
+                </select>
+
+                {% if request.args.get('display') == 'population' %}
+                    <label for="age_category">Age Category:</label>
+                    <select name="age_category" id="age_category" onchange="this.form.submit()">
+                        <option value="total_population" {% if request.args.get('age_category') == 'total_population' %}selected{% endif %}>Total Population</option>
+                        <option value="population_under_15" {% if request.args.get('age_category') == 'population_under_15' %}selected{% endif %}>Population Under 15</option>
+                        <option value="population_age_16_24" {% if request.args.get('age_category') == 'population_age_16_24' %}selected{% endif %}>Population Age 16-24</option>
+                        <option value="population_age_25_49" {% if request.args.get('age_category') == 'population_age_25_49' %}selected{% endif %}>Population Age 25-49</option>
+                        <option value="population_age_50_64" {% if request.args.get('age_category') == 'population_age_50_64' %}selected{% endif %}>Population Age 50-64</option>
+                        <option value="population_over_65" {% if request.args.get('age_category') == 'population_over_65' %}selected{% endif %}>Population Over 65</option>
+                    </select>
+                {% elif request.args.get('display') == 'health' %}
+                    <label for="health_category">Health Category:</label>
+                    <select name="health_category" id="health_category" onchange="this.form.submit()">
+                        <option value="usual_residents" {% if request.args.get('health_category') == 'usual_residents' %}selected{% endif %}>Usual Residents</option>
+                        <option value="residentsGoodHealth" {% if request.args.get('health_category') == 'residentsGoodHealth' %}selected{% endif %}>Residents in Good Health</option>
+                        <option value="residentsFairHealth" {% if request.args.get('health_category') == 'residentsFairHealth' %}selected{% endif %}>Residents in Fair Health</option>
+                        <option value="residentsBadHealth" {% if request.args.get('health_category') == 'residentsBadHealth' %}selected{% endif %}>Residents in Bad Health</option>
+                        <option value="residentVeryBadHealth" {% if request.args.get('health_category') == 'residentVeryBadHealth' %}selected{% endif %}>Residents in Very Bad Health</option>
+                    </select>
+                {% elif request.args.get('display') == 'occupation' %}
+                    <label for="occupation_category">Occupation Category:</label>
+                    <select name="occupation_category" id="occupation_category" onchange="this.form.submit()">
+                        <option value="managers_directors_senior_officials" {% if request.args.get('occupation_category') == 'managers_directors_senior_officials' %}selected{% endif %}>Managers, Directors, and Senior Officials</option>
+                        <option value="professional_occupations" {% if request.args.get('occupation_category') == 'professional_occupations' %}selected{% endif %}>Professional Occupations</option>
+                        <option value="associate_professional_technical" {% if request.args.get('occupation_category') == 'associate_professional_technical' %}selected{% endif %}>Associate Professional and Technical Occupations</option>
+                        <option value="administrative_secretarial" {% if request.args.get('occupation_category') == 'administrative_secretarial' %}selected{% endif %}>Administrative and Secretarial Occupations</option>
+                        <option value="skilled_trades" {% if request.args.get('occupation_category') == 'skilled_trades' %}selected{% endif %}>Skilled Trades Occupations</option>
+                        <option value="caring_leisure_service" {% if request.args.get('occupation_category') == 'caring_leisure_service' %}selected{% endif %}>Caring, Leisure, and Other Service Occupations</option>
+                        <option value="sales_customer_service" {% if request.args.get('occupation_category') == 'sales_customer_service' %}selected{% endif %}>Sales and Customer Service Occupations</option>
+                        <option value="process_plant_machine_operatives" {% if request.args.get('occupation_category') == 'process_plant_machine_operatives' %}selected{% endif %}>Process, Plant, and Machine Operatives</option>
+                        <option value="elementary_occupations" {% if request.args.get('occupation_category') == 'elementary_occupations' %}selected{% endif %}>Elementary Occupations</option>
+                    </select>
+                {% elif request.args.get('display') == 'tenure' %}
+                    <label for="tenure_category">Tenure Category:</label>
+                    <select name="tenure_category" id="tenure_category" onchange="this.form.submit()">
+                        <option value="owns_outright" {% if request.args.get('tenure_category') == 'owns_outright' %}selected{% endif %}>Owns Outright</option>
+                        <option value="owns_with_mortgage" {% if request.args.get('tenure_category') == 'owns_with_mortgage' %}selected{% endif %}>Owns with Mortgage</option>
+                        <option value="shared_ownership" {% if request.args.get('tenure_category') == 'shared_ownership' %}selected{% endif %}>Shared Ownership</option>
+                        <option value="rents_council" {% if request.args.get('tenure_category') == 'rents_council' %}selected{% endif %}>Rents Council</option>
+                        <option value="other_social_rented" {% if request.args.get('tenure_category') == 'other_social_rented' %}selected{% endif %}>Other Social Rented</option>
+                        <option value="rents_private_landlord" {% if request.args.get('tenure_category') == 'rents_private_landlord' %}selected{% endif %}>Rents Private Landlord</option>
+                        <option value="other_private_rented" {% if request.args.get('tenure_category') == 'other_private_rented' %}selected{% endif %}>Other Private Rented</option>
+                        <option value="lives_rent_free" {% if request.args.get('tenure_category') == 'lives_rent_free' %}selected{% endif %}>Lives Rent Free</option>
+                    </select>
+                {% elif request.args.get('display') == 'vehicles' %}
+                    <label for="vehicle_category">Vehicle Ownership:</label>
+                    <select name="vehicle_category" id="vehicle_category" onchange="this.form.submit()">
+                        <option value="no_cars_vans" {% if request.args.get('vehicle_category') == 'no_cars_vans' %}selected{% endif %}>No Cars or Vans</option>
+                        <option value="one_car_van" {% if request.args.get('vehicle_category') == 'one_car_van' %}selected{% endif %}>One Car or Van</option>
+                        <option value="two_cars_vans" {% if request.args.get('vehicle_category') == 'two_cars_vans' %}selected{% endif %}>Two Cars or Vans</option>
+                        <option value="three_or_more_cars_vans" {% if request.args.get('vehicle_category') == 'three_or_more_cars_vans' %}selected{% endif %}>Three or more Cars or Vans</option>
+                    </select>
+                {% endif %}
+            </form>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div id="map">
+            {{ map_html|safe }}
+        </div>
+        <div id="graph">
+            {{ graph_html|safe }}
+        </div>
+    </div>
+    {% if table_html %}
+    <div>
+        {{ table_html|safe }}
+    </div>
+{% endif %}
+</body>
+</html>
