@@ -6,9 +6,6 @@ Welcome to the Ward Profiles Web Application! This project is designed to provid
 - [Features](#features)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Interactive maps using Folium
